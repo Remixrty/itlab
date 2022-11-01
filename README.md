@@ -12,7 +12,7 @@
 
 5. Размещение странички на хостинге.
 
-Web - страница с работами: https://mailzz.github.io/IT_Labs/
+Web - страница с работами: https://remixrty.github.io/itlab/
 
 # ✅ Лабораторная работа № 2
 
